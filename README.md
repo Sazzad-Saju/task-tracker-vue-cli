@@ -4,7 +4,12 @@
 ```
 npm install
 ```
-
+```
+npm install vue
+```
+```
+npm install @vue/cli
+```
 ### Compiles and hot-reloads for development
 ```
 npm run serve
