@@ -1,4 +1,4 @@
-# vue_cli_proj
+# Task-tracker-vue-cli
 
 ## Project setup
 ```
